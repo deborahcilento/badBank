@@ -1,0 +1,17 @@
+.card {
+    background-color:#DBFCFF;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+body {
+    background-color: #DDC3D0;
+}
+
+#datatitle {
+    text-align: center;
+}
+
+#homecard {
+    text-align: center;
+}
